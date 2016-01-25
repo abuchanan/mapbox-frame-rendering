@@ -1,0 +1,23 @@
+{
+  "name": "mapbox-frame-rendering",
+  "version": "0.1.0",
+  "description": "An app for rendering frames on an animation map built on Mapbox and Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abuchanan/mapbox-frame-rendering"
+  },
+  "keywords": [
+    "Electron", "Mapbox GL"
+  ],
+  "author": "Alex Buchanan <buchanae@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/abuchanan/mapbox-frame-rendering",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
+  },
+  "dependencies": {}
+}
