@@ -1,7 +1,7 @@
 {
   "name": "mapbox-frame-rendering",
   "version": "0.1.0",
-  "description": "An app for rendering frames on an animation map built on Mapbox and Electron",
+  "description": "An app for rendering an animated map built on Mapbox and Electron",
   "main": "main.js",
   "scripts": {
     "start": "electron main.js"
